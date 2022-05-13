@@ -62,7 +62,17 @@ The graph shows the best months to boost the phone call is in March, September, 
 ## Suggestion
 * Provide a comprehensive business metrics evaluation by calculating term deposit value/ revenue before - after modeling.
 
+## Pegasus Team 
+This project was made by Pegasus team from Rakamin Final Project. Thanks for the Mentor Mas Gerry Chandra and all the team members.
 
+Name of the members:
+* Ramadhan Adi
+* Muhammad Firma A
+* Puguh Santosa D
+* Aldin Islamy
+* Nadiana Yemin M
+* Dien Galuh
+* Bagaskara T Arifin (me)
 
 
  
